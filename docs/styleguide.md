@@ -6,3 +6,4 @@
 
 # Indentation
 - Tabs. No arguments.
+- Change "Editor: Insert Spaces" and "Editor: Detect Indentation" to false
